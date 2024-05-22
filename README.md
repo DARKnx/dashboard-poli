@@ -1,4 +1,4 @@
-# Título do Projeto
+# Dashboard Polivalente
 Dashboard designada a administração do Polivalente APP de forma simples e intuitiva.
 
 ## Tecnologias
