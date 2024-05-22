@@ -1,9 +1,5 @@
 # Título do Projeto
 Dashboard designada a administração do Polivalente APP de forma simples e intuitiva.
-...
-
-### Onde Acessar
-...
 
 ## Tecnologias
 ### Linguagem de Programação:
@@ -11,7 +7,7 @@ Dashboard designada a administração do Polivalente APP de forma simples e intu
 ### Framework & Bibliotecas:
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   
 ## Funcionalidades
 
@@ -27,5 +23,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para m
 
 ## Autores
 
-Nome do Autor 1 - GitHub
-Nome do Autor 2 - GitHub
+[@Gabi-Viana](https://github.com/Gabi-Viana)
+[@AdrianJonathanMB](https://github.com/AdrianJonathanMB)
+
