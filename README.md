@@ -1,68 +1,52 @@
+# Título do Projeto
+Dashboard designada a administração do Polivalente APP de forma simples e intuitiva.
+...
 
-# React Vite Template
+### Onde Acessar
+...
 
-Um template criado facilitar a vida do desenvolvedor, ele iniciante ou não, tal template reuni as principais tecnlogias para o react e já vem configurado para desenvolvimento e build.
+## Tecnologias
+### Linguagem de Programação: 
 
+### Framework & Bibliotecas:
 
-## Bibliotecas utilizadas
-- styled-componentes
-- react-router-dom
-- react
-- axios
-- Vite
-
-
-
+### Outros:
+  
 ## Funcionalidades
 
-- Vite configurado (build, port, .env, scripts)
-- Theme Provider
-- Global Styles
-- Arquivo de configuração geral (title, baseURL)
-- Rotas configuradas
-- Rota de erro configurada
-- Estrutura de pastas
-- Instancia do axios
+- funcionalidade 1
+- funcionalidade 2
+- funcionalidade 3
 
+## Instalação
 
-
-
-## Rodando localmente
-
-Clone o projeto
-
+Clone o repositório:
 ```bash
-  git clone https://github.com/DARKnx/react-vite-template.git
+git clone https://link-do-repositorio.git
+```
+Entre no diretório do projeto:
+```bash
+cd nome-do-projeto
+```
+Instale as dependências:
+```bash
+comando-para-instalar-dependencias
 ```
 
-Entre no diretório do projeto
+## Uso
 
 ```bash
-  cd react-vite-template
+comando-para-iniciar-projeto
 ```
-
-Instale as dependências
-
+## Build
 ```bash
-  npm install
+comando-para-build
 ```
 
-Inicie o servidor
+## Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-```bash
-  npm run dev
-```
+## Autores
 
-
-## Deploy
-
-Para fazer o deploy desse projeto rode
-
-```bash
-  npm run build
-```
-
-## Autor
-
-- [@darknx](https://www.github.com/darknx)
-
+Nome do Autor 1 - GitHub
+Nome do Autor 2 - GitHub
